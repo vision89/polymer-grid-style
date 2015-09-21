@@ -1,0 +1,27 @@
+{
+  "name": "grid-style",
+  "version": "0.0.1",
+  "homepage": "https://github.com/vision89/polymer-grid-style",
+  "authors": [
+    "dlgulley411@gmail.com <dlgulley411@gmail.com>"
+  ],
+  "description": "Style system to be easy to use with polymer",
+  "main": "grid.html",
+  "keywords": [
+    "grid",
+    "style",
+    "polymer",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "~1.1.3"
+  }
+}
